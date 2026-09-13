@@ -115,7 +115,7 @@ Emergency language produces a non-model response with `escalation_required: true
 pytest
 ```
 
-The CI workflow runs the same test command on every push and pull request.
+Run the same test command in CI on every push and pull request.
 
 ## Roadmap for a production handoff
 
